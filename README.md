@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Kamil 👋
 
-<!--
-**camill-projects/camill-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring IT Helpdesk / Support Specialist based in Poland.
+I'm learning Windows Server and Active Directory by building a home lab.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Home lab: Windows Server + Active Directory (simulating a company environment)
+- Learning PowerShell to automate user and group management
+- Documenting every step and the problems I solve along the way
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm developing
+- Windows 10/11 and Windows Server
+- Active Directory, Group Policy
+- Networking basics (TCP/IP, DNS, DHCP)
+- Troubleshooting and technical documentation
+
+## Contact
+- Email: kamilbaran966@gmail.com
+- LinkedIn: (soon)
