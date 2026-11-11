@@ -4,7 +4,7 @@ Aspiring IT Helpdesk / Support Specialist based in Poland.
 I'm learning Windows Server and Active Directory by building a home lab.
 
 ## What I'm working on
-- Home lab: Windows Server + Active Directory (simulating a company environment)
+- Home lab: Windows Server + Active Directory, a simulated company with 100 employees. [See the project](https://github.com/camill-projects/ad-home-lab-en)
 - Learning PowerShell to automate user and group management
 - Documenting every step and the problems I solve along the way
 
