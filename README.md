@@ -16,4 +16,4 @@ I'm learning Windows Server and Active Directory by building a home lab.
 
 ## Contact
 - Email: kamilbaran966@gmail.com
-- LinkedIn: (soon)
+- LinkedIn: ([link](https://www.linkedin.com/in/kamilbaran1/))
